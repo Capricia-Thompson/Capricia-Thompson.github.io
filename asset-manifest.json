@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3bd3d80f.css",
+    "main.js": "/static/js/main.ccf9be8d.js",
+    "static/media/portfolio-img2.png": "/static/media/portfolio-img2.82760e49e2a7f8ea1335.png",
+    "static/media/about.png": "/static/media/about.1a12551d1e88d954194e.png",
+    "static/media/avatar.png": "/static/media/avatar.8594c6d30f2f5d482ad9.png",
+    "static/media/portfolio-img1.png": "/static/media/portfolio-img1.2aa708c40b12a485a180.png",
+    "static/media/logo.svg": "/static/media/logo.727177e299260411c171bea047560717.svg",
+    "static/media/portfolio-img3.png": "/static/media/portfolio-img3.d338871cd7a7ee2ab871.png",
+    "static/media/site-bg.jpg": "/static/media/site-bg.e581d75518968bd584b6.jpg",
+    "static/media/icons8-react-native-256.png": "/static/media/icons8-react-native-256.9c37186d94394d9849c9.png",
+    "static/media/icons8-flask-256.png": "/static/media/icons8-flask-256.6a3091a76926f3acef46.png",
+    "index.html": "/index.html",
+    "main.3bd3d80f.css.map": "/static/css/main.3bd3d80f.css.map",
+    "main.ccf9be8d.js.map": "/static/js/main.ccf9be8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bd3d80f.css",
+    "static/js/main.ccf9be8d.js"
+  ]
+}
