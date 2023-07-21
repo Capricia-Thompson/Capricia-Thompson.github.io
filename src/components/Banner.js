@@ -3,8 +3,13 @@ import Image from '../assets/avatar.png';
 import { TypeAnimation } from 'react-type-animation';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
+import { useInView } from 'react-intersection-observer';
+
 
 const Banner = () => {
+  const [ref, inView] = useInView({
+    threshold: 0.5,
+  })
   return <section className='min-h-[85vh] lg:min-h-[78vh] flex items-center relative top-32' id='home'>
     <div className='container mx-auto'>
       <div className='flex flex-col gap-y-8 lg:flex-row lg:items-center lg:gap-x-12'>

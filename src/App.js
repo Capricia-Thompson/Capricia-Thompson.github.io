@@ -18,7 +18,6 @@ const App = () => {
       <Skills />
       <Work />
       {/* <Contact /> */}
-      <div className='h-max'></div>
     </div>
   );
 };
